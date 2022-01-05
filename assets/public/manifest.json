@@ -1,0 +1,15 @@
+{
+    "short_name": "Lipkolipko",
+    "name": "mobile-map-markers",
+    "icons": [
+        {
+            "src": "prod-favicon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#7986cb",
+    "background_color": "#b0bec5"
+}

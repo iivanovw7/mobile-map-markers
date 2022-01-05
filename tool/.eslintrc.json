@@ -1,0 +1,10 @@
+{
+    "extends": [
+        "ts-guard/node"
+    ],
+    "rules": {
+        "no-var": "off",
+        "prefer-template": "off",
+        "node/no-unpublished-require": "off"
+    }
+}

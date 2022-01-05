@@ -1,0 +1,10 @@
+{
+    "processors": ["stylelint-processor-styled-components"],
+    "extends": ["./../.stylelintrc", "stylelint-config-styled-components"],
+    "customSyntax": "postcss-scss",
+    "ignoreFiles": ["**/*.pcss", "**/*.css"],
+    "rules": {
+        "function-name-case": null,
+        "value-keyword-case": null
+    }
+}
